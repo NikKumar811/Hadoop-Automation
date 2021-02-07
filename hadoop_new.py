@@ -1,5 +1,4 @@
 import subprocess as sp
-import xml.etree.ElementTree as ET
 import os
 print("\t\t\tWelcome to the TUI to make Life Easier")
 
